@@ -1,0 +1,7 @@
+J:\GeekBrains\CSharp Basics in Unity\Homework Project\GB_CSharp Basics_Olesov M_Lesson 5\GB_CSharp Basics_Olesov M_Lesson 5\bin\Debug\GB_CSharp Basics_Olesov M_Lesson 5.exe.config
+J:\GeekBrains\CSharp Basics in Unity\Homework Project\GB_CSharp Basics_Olesov M_Lesson 5\GB_CSharp Basics_Olesov M_Lesson 5\bin\Debug\GB_CSharp Basics_Olesov M_Lesson 5.exe
+J:\GeekBrains\CSharp Basics in Unity\Homework Project\GB_CSharp Basics_Olesov M_Lesson 5\GB_CSharp Basics_Olesov M_Lesson 5\bin\Debug\GB_CSharp Basics_Olesov M_Lesson 5.pdb
+J:\GeekBrains\CSharp Basics in Unity\Homework Project\GB_CSharp Basics_Olesov M_Lesson 5\GB_CSharp Basics_Olesov M_Lesson 5\obj\Debug\GB_CSharp Basics_Olesov M_Lesson 5.csprojAssemblyReference.cache
+J:\GeekBrains\CSharp Basics in Unity\Homework Project\GB_CSharp Basics_Olesov M_Lesson 5\GB_CSharp Basics_Olesov M_Lesson 5\obj\Debug\GB_CSharp Basics_Olesov M_Lesson 5.csproj.CoreCompileInputs.cache
+J:\GeekBrains\CSharp Basics in Unity\Homework Project\GB_CSharp Basics_Olesov M_Lesson 5\GB_CSharp Basics_Olesov M_Lesson 5\obj\Debug\GB_CSharp Basics_Olesov M_Lesson 5.exe
+J:\GeekBrains\CSharp Basics in Unity\Homework Project\GB_CSharp Basics_Olesov M_Lesson 5\GB_CSharp Basics_Olesov M_Lesson 5\obj\Debug\GB_CSharp Basics_Olesov M_Lesson 5.pdb
